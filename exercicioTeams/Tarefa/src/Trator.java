@@ -5,16 +5,16 @@ public class Trator extends Veiculo {
 
     @Override
     public void acelerar() {
-        System.out.println("Trem em movimento...");
+        System.out.println("Trator em movimento...");
     }
 
     @Override
     public void freiar() {
-        System.out.println("Trem parando...");
+        System.out.println("Trator parando...");
     }
 
     @Override
     public void buzinar() {
-        System.out.println("Trem: Apito do trem!");
+        System.out.println("Trator: Apito do trem!");
     }
 }

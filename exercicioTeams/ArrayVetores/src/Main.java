@@ -12,13 +12,13 @@ public class Main {
 //        Ex81.ex81Array();
 //        Ex82.ex82Vetor();
 //        Ex82.ex82Array();
-//        Ex83.ex83Vetor();
+        Ex83.ex83Vetor();
 //        Ex83.ex83Array();
 //        Ex84.ex84Vetor();
 //        Ex84.ex84Array();
 //        Ex85.ex85Vetor();
 //        Ex85.ex85Array();
-        Ex86.ex86Vetor();
+//        Ex86.ex86Vetor();
 //        Ex86.ex86Array();
 //        Ex87.ex87Vetor();
 //        Ex87.ex87Array();

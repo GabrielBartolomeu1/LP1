@@ -6,16 +6,16 @@ public class Onibus extends Veiculo{
 
     @Override
     public void acelerar() {
-        System.out.println("Caminhão acelerando...");
+        System.out.println("Ônibus acelerando...");
     }
 
     @Override
     public void freiar() {
-        System.out.println("Caminhão freando...");
+        System.out.println("Ônibus freando...");
     }
 
     @Override
     public void buzinar() {
-        System.out.println("Caminhão: Honk honk!");
+        System.out.println("Ônibus: Honk honk!");
     }
 }
