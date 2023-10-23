@@ -30,4 +30,3 @@ public class Ex53 {
         scanner.close();
     }
 }
-
